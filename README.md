@@ -1,6 +1,6 @@
 # A test environment 
 
-Deploy your test environment with the push of a button (automagically) :P 
+Deploy your Ansible, Docker, Terraform test environment with the push of a button (automagically) :P 
 
 ## Requirements 
 
